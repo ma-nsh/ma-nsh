@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ma-nsh
 - 👀 I’m interested in knowledge
-- 🌱 I’m currently learning python and stock market
+- 🌱 I’m currently learning python and html
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me https://www.facebook.com/manish.dahal.908
 - 😄 Pronouns: he
